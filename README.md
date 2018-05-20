@@ -1,6 +1,6 @@
-# GraphQL implementation with axios and no fetch client
+# GraphQL implementation with axios only
 
-Example application to use github graphql api to implement an issue tracker
+Example application using github's graphql api to implement an issue tracker
 
 ## Run
 
