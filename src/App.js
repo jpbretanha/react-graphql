@@ -80,7 +80,7 @@ const TITLE = 'Getting repository info with graphql'
 
 class App extends Component {
   state = {
-    path: 'the-road-to-learn-react/the-road-to-learn-react',
+    path: 'facebook/create-react-app',
     organization: null,
     errors: null
   }
